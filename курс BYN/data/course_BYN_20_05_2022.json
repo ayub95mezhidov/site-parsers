@@ -1,0 +1,27 @@
+[
+    {
+        "currency": "1 USD",
+        "today": "BYN 2,5043",
+        "tomorrow": "BYN 2,5043"
+    },
+    {
+        "currency": "1 EUR",
+        "today": "BYN 2,6212",
+        "tomorrow": "BYN 2,6212"
+    },
+    {
+        "currency": "100 RUB",
+        "today": "BYN 3,9928",
+        "tomorrow": "BYN 3,9928"
+    },
+    {
+        "currency": "10 PLN",
+        "today": "BYN 5,6523",
+        "tomorrow": "BYN 5,6523"
+    },
+    {
+        "currency": "100 UAH",
+        "today": "BYN 8,4766",
+        "tomorrow": "BYN 8,4766"
+    }
+]
